@@ -1,7 +1,5 @@
 # IMDB Sentiment Analysis with LSTM & GRU + GloVe Embeddings
 
-> Binary sentiment classification on IMDB movie reviews using **LSTM** and **GRU** models with pretrained **GloVe** word embeddings in Pure PyTorch.
-
 ---
 
 ## Table of Contents
